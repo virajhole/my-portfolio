@@ -31,8 +31,8 @@ function Contact() {
             <article data-aos="zoom-in" data-aos-duration="1500" className="contact__option">
               <MdOutlineEmail className='contact__option-icon' />
               <h4>Email</h4>
-              <h5>arjunsamrat0705@gmail.com</h5>
-              <a href="mailto:arjunsamrat0705@gmail.com" target='_blank' rel="noopener noreferrer">Send a message</a>
+              <h5>virajhole7774@gmail.com</h5>
+              <a href="mailto:virajhole7774@gmail.com" target='_blank' rel="noopener noreferrer">Send a message</a>
             </article>
 
             <article data-aos="zoom-in" data-aos-duration="1500" className="contact__option">
