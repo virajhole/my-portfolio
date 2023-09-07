@@ -1,7 +1,7 @@
 
 import React from 'react'
 import "./About.css"
-// import ME from "../../assets/me123.jpg"
+import ME from "../../assets/dp.jpg"
 import { FaAward } from "react-icons/fa"
 import { GiGraduateCap } from "react-icons/gi"
 import { VscFolderActive } from "react-icons/vsc"
@@ -23,7 +23,7 @@ const About = () => {
         <span data-aos="zoom-in" data-aos-duration="1500">
           <div className="about__me">
             <div className="about__me-image">
-              {/* <img src={ME} alt="" /> */}
+              <img src={ME} alt="" />
             </div>
           </div>
         </span>
