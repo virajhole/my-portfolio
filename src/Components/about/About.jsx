@@ -1,7 +1,7 @@
 
 import React from 'react'
 import "./About.css"
-import ME from "../../assets/me123.jpg"
+// import ME from "../../assets/me123.jpg"
 import { FaAward } from "react-icons/fa"
 import { GiGraduateCap } from "react-icons/gi"
 import { VscFolderActive } from "react-icons/vsc"
