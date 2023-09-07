@@ -65,19 +65,19 @@ function Experience() {
           <div className="experience__content">
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>Python</h4>
+              <div> <h4>Java</h4>
                 <small className='text-light'>Advanced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
-              <div> <h4>Python Django</h4>
+              <div> <h4>Hibernate</h4>
                 <small className='text-light'>Advanced</small>
               </div>
             </article>
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
-              <div><h4>Rest Api</h4>
+              <div><h4>Spring Boot</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
