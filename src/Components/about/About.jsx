@@ -23,7 +23,7 @@ const About = () => {
         <span data-aos="zoom-in" data-aos-duration="1500">
           <div className="about__me">
             <div className="about__me-image">
-              <img src={ME} alt="" />
+              {/* <img src={ME} alt="" /> */}
             </div>
           </div>
         </span>
@@ -36,7 +36,7 @@ const About = () => {
               <article className="about__card">
                 <FaAward className='about-icon' />
                 <h5>Experience</h5>
-                <small> 1+ Year of Working </small>
+                <small> Fresher </small>
               </article>
             </span>
 
@@ -56,7 +56,7 @@ const About = () => {
                 <article className="about__card">
                   <VscFolderActive className='about-icon' />
                   <h5>Projects</h5>
-                  <small> 10+ Completed </small>
+                  <small> 5+ Completed </small>
                 </article>
               </a>
             </span>
