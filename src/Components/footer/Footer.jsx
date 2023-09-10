@@ -70,7 +70,7 @@ function Footer() {
 
       <div className="footer__copyright">
         {/* <small>&copy; Design & Develope by Viraj Hole.</small> */}
-        <small>&copy; 2022 Viraj Hole | All rights reserved.</small>
+        <small>&copy; 2023 Viraj Hole | All rights reserved.</small>
       </div>
     </footer>
   );
