@@ -52,7 +52,7 @@ function Portfolio() {
       image: IMG5,
       title: "Personal Portfolio Web App",
       github: "https://github.com/virajhole/my-portfolio",
-      demo: "http://arjun-samrat-portfolio.pages.dev"
+      demo: "https://my-portfolio-virajhole.vercel.app/"
     },
     {
       id: 6,
