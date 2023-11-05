@@ -5,7 +5,7 @@ import IMG2 from "../../assets/tictactoe.png"
 import IMG3 from "../../assets/gymwebapp.png"
 import IMG5 from "../../assets/portfolio.png"
 import IMG4 from "../../assets/blog.png"
-import IMG6 from "../../assets/todo.png"
+import IMG6 from "../../assets/hospital.png"
 import IMG7 from "../../assets/assignment.png"
 
 
@@ -16,21 +16,21 @@ function Portfolio() {
       id: 1,
       image: IMG1,
       title: "MyMedia-Youtube Clone App",
-      github: "https://github.com/arjun0705?tab=repositories",
+      github: "https://github.com/virajhole",
       demo: "https://mymedia-3cf.pages.dev/"
     },
     {
       id: 2,
       image: IMG2,
       title: "Tic-Tac-Toe A Game App",
-      github: "https://github.com/arjun0705/Tic-Tac-Toe",
+      github: "https://github.com/virajhole/Tic-Tac-Toe",
       demo: "https://tic-tac-toe-eju.pages.dev/"
     },
     {
       id: 3,
       image: IMG3,
       title: "Fitness Club Advertise Web App",
-      github: "https://github.com/arjun0705/Gym-Fitness-Website",
+      github: "https://github.com/virajhole/Gym-Fitness-Website",
       demo: "https://fitnessmantra2.pages.dev/"
     },
     {
@@ -43,15 +43,15 @@ function Portfolio() {
     {
       id: 6,
       image: IMG6,
-      title: "Todo Web App",
-      github: "https://github.com/arjun0705/React-Redux-To-Do-Application",
-      demo: "https://todo-list-react-application001.herokuapp.com/"
+      title: "Hospital-App",
+      github: "https://github.com/virajhole/Hospital-App",
+      demo: "https://github.com/virajhole/Hospital-App"
     },
     {
       id: 5,
       image: IMG5,
       title: "Personal Portfolio Web App",
-      github: "https://github.com/arjun0705/portfolio-website",
+      github: "https://github.com/virajhole/my-portfolio",
       demo: "http://arjun-samrat-portfolio.pages.dev"
     },
     {
