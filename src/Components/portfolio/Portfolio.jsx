@@ -57,9 +57,9 @@ function Portfolio() {
     {
       id: 6,
       image: IMG7,
-      title: "Construction Business Website",
-      github: "https://github.com/arjun0705/Tathaatvam-Assignment",
-      demo: "https://main--deluxe-phoenix-aae1bc.netlify.app/"
+      title: "Food-App",
+      github: "https://github.com/virajhole/Food-App",
+      demo: "https://github.com/virajhole/Food-App"
     },
 
   ]
