@@ -4,9 +4,9 @@ import IMG1 from "../../assets/youtubeclone.png"
 import IMG2 from "../../assets/tictactoe.png"
 import IMG3 from "../../assets/gymwebapp.png"
 import IMG5 from "../../assets/portfolio.png"
-import IMG4 from "../../assets/blog.png"
+import IMG4 from "../../assets/library.png"
 import IMG6 from "../../assets/hospital.png"
-import IMG7 from "../../assets/assignment.png"
+import IMG7 from "../../assets/food.jpg"
 
 
 function Portfolio() {
@@ -36,9 +36,9 @@ function Portfolio() {
     {
       id: 4,
       image: IMG4,
-      title: "Fullstack Blog App",
-      github: "https://github.com/arjun0705/Full-stack-blog-app",
-      demo: "https://github.com/arjun0705/Full-stack-blog-app"
+      title: " Library-Management-System",
+      github: "https://github.com/virajhole/Library-Management-System",
+      demo: "https://github.com/virajhole/Library-Management-System"
     },
     {
       id: 6,
