@@ -17,7 +17,7 @@ function Portfolio() {
       image: IMG1,
       title: "MyMedia-Youtube Clone App",
       github: "https://github.com/virajhole",
-      demo: "https://mymedia-3cf.pages.dev/"
+      demo: "https://github.com/virajhole"
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ function Portfolio() {
       image: IMG3,
       title: "Fitness Club Advertise Web App",
       github: "https://github.com/virajhole/Gym-Fitness-Website",
-      demo: "https://fitnessmantra2.pages.dev/"
+      demo: "https://gym-fitness-website-delta.vercel.app/"
     },
     {
       id: 4,
