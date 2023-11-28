@@ -24,7 +24,7 @@ function Portfolio() {
       image: IMG2,
       title: "Tic-Tac-Toe A Game App",
       github: "https://github.com/virajhole/Tic-Tac-Toe",
-      demo: "https://tic-tac-toe-eju.pages.dev/"
+      demo: "https://tic-tac-toe-virajhole.vercel.app/"
     },
     {
       id: 3,
