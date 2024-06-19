@@ -8,8 +8,6 @@ import { SiLinkedin } from "react-icons/si";
 function Footer() {
   return (
     <footer id="footer">
-      {/* <a href="#" className='footer__logo'>ARJUN</a> */}
-
       <ul className="permalinks">
         <li>
           {" "}
@@ -46,17 +44,13 @@ function Footer() {
           <BsGithub />
         </a>
         <a
-          href="https://www.linkedin.com/in/viraj-hole-96b00a13b"
+          href="https://www.linkedin.com/in/viraj-hole"
           target="_blank"
           rel="noopener noreferrer"
         >
           <SiLinkedin />
         </a>
-        <a
-          href="#"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <a href="#" target="_blank" rel="noopener noreferrer">
           <SiMedium />
         </a>
         <a
@@ -70,7 +64,7 @@ function Footer() {
 
       <div className="footer__copyright">
         {/* <small>&copy; Design & Develope by Viraj Hole.</small> */}
-        <small>&copy; 2023 Viraj Hole | All rights reserved.</small>
+        <small>&copy; 2024 Viraj Hole | All rights reserved.</small>
       </div>
     </footer>
   );
